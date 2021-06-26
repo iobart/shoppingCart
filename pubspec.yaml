@@ -1,0 +1,24 @@
+dependencies:
+  cloud_firestore: ^2.2.2
+  convex_bottom_bar: ^3.0.0
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.3.0
+  http: ^0.13.3
+  rxdart: ^0.27.1
+  adaptive_theme: ^2.2.0
+  google_fonts: ^2.1.0
+  badges: ^2.0.1
+  flutter:
+    sdk: flutter
+  pedantic: ^1.11.1
+description: A new Flutter project.
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+flutter:
+  uses-material-design: true
+name: shoppicart
+publish_to: none
+version: 1.0.0+2106230921
